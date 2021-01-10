@@ -5,7 +5,9 @@
   <a href="mailto:despicablegrand@gmail.com">Gmail</a>
 </p> 
 
-![Cowboy](https://github.com/Desp1cable/Desp1cable/raw/master/Images/Bebop.gif)
+<p align="center">
+  <img src="Bebop.gif" width="360" title="Cowboy">
+</p>
 
 ## :shipit: About me
 * :mortar_board: I'm a second year college student, specializing in web and multimedia development
@@ -25,13 +27,13 @@
 * Python
 * PHP basics
 * SQL
-#### And some Additional tools
+<!-- #### And some Additional tools
 - Visual Studio Code
 - GitHub
 - Photoshop
 - Figma
 - Linux: Ubuntu
 - Trello
-- MySQL Workbench
+- MySQL Workbench -->
 ------
 ## :arrow_down: If you interested in, you can see my projects down below :arrow_down:
