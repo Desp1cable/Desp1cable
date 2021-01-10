@@ -5,7 +5,7 @@
   <a href="mailto:despicablegrand@gmail.com">Gmail</a>
 </p> 
 
-![Image alt](https://github.com/Desp1cable/Desp1cable/raw/master/images/Bebop.gif)
+![Cowboy](https://github.com/Desp1cable/Desp1cable/raw/master/Images/Bebop.gif)
 
 ## :shipit: About me
 * :mortar_board: I'm a second year college student, specializing in web and multimedia development
