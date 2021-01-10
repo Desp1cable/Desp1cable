@@ -12,7 +12,7 @@
 ## :shipit: About me
 * :mortar_board: I'm a second year college student, specializing in web and multimedia development
 * :octocat: I write code because that's the way for me to feel calmness
-* :walking: In my free time I watch anime, listen to music, read books and do sport, by the way, check out my [Anime list](yummyanime.club/users/id585219) and [Spotify playlists](https://open.spotify.com/user/cukziv71yqg6oqvtqak23s3mp?si=DTXuytkDSvqLD8Jq12lcvg)
+* :walking: In my free time I watch anime, listen to music, read books and do sport, by the way, check out my [Anime list](https://yummyanime.club/users/id585219) and [Spotify playlists](https://open.spotify.com/user/cukziv71yqg6oqvtqak23s3mp?si=DTXuytkDSvqLD8Jq12lcvg)
 
 ## :clipboard: I'm currently learning
 * Asynchronous JavaScript 
