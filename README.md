@@ -15,17 +15,17 @@
 * :walking: In my free time I watch anime, listen to music, read books and do sport, by the way, check out my [Anime list](https://yummyanime.club/users/id585219) and [Spotify playlists](https://open.spotify.com/user/cukziv71yqg6oqvtqak23s3mp?si=DTXuytkDSvqLD8Jq12lcvg)
 
 ## :clipboard: I'm currently learning
+* Vue Basics
 * NodeJS
 * XML
-* Vue Basics
 
 ## :heavy_check_mark: I already know
-* HTML: Bootstrap
-* CSS
+* HTML: BEM, Bootstrap
+* CSS: SASS
 * JavaScript
-* React Basics
+* React: Basics
 * Python
-* PHP basics
+* PHP: basics
 * SQL: MySQL
 <!-- #### And some Additional tools
 - Visual Studio Code
