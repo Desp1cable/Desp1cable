@@ -14,8 +14,8 @@
 * :octocat: I write code because that's the way for me to feel calmness
 * :walking: In my free time I watch anime, listen to music, read books and do sport, by the way, check out my [Anime list](https://yummyanime.club/users/id585219) and [Spotify playlists](https://open.spotify.com/user/cukziv71yqg6oqvtqak23s3mp?si=DTXuytkDSvqLD8Jq12lcvg)
 
-## :clipboard: I'm currently learning
-* Vue Basics
+## :mortar_board: I'm currently learning
+* Vue3
 * NodeJS
 * XML
 
@@ -25,13 +25,27 @@
 * JavaScript
 * React: Basics
 * Python
-* PHP: basics
+* PHP: Basics
 * SQL: MySQL
+
+## :green_book: Want to know
+* Vue: NuxtJS, BoostrapVue, Vuex
+* Firebase: Firestore, Hosting
+* WebSockets: SocketIO
+* SQL: SQLite
+* GraphQL
+* MongoDB
+* Deno
+* Flutter
+* Swift
+* Kotlin
+
 <!-- #### And some Additional tools
 - Visual Studio Code
 - GitHub
 - Photoshop
 - Figma
+- Notion
 - Linux: Ubuntu
 - Trello
 - MySQL Workbench -->
