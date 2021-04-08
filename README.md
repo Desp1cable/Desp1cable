@@ -11,11 +11,10 @@
 
 ## :shipit: About me
 * :mortar_board: I'm a second year college student, specializing in web and multimedia development
-* :octocat: I write code because that's the way for me to feel calmness
+* :octocat: I write code because that's the way for me to feel calmness and it's brings stability into my every day life
 * :walking: In my free time I watch anime, listen to music, read books and do sport, by the way, check out my [Anime list](https://yummyanime.club/users/id585219) and [Spotify playlists](https://open.spotify.com/user/cukziv71yqg6oqvtqak23s3mp?si=DTXuytkDSvqLD8Jq12lcvg)
 
 ## :mortar_board: I'm currently learning
-* Vue3
 * NodeJS
 * XML
 
@@ -23,18 +22,17 @@
 * HTML: BEM, Bootstrap
 * CSS: SASS
 * JavaScript
-* React: Basics
+* React
 * Python
 * PHP: Basics
 * SQL: MySQL
+* NoSQL: MongoDB(mongoose)
 
 ## :green_book: Want to know
-* Vue: NuxtJS, BoostrapVue, Vuex
 * Firebase: Firestore, Hosting
 * WebSockets: SocketIO
 * SQL: SQLite
 * GraphQL
-* MongoDB
 * Deno
 * Flutter
 * Swift
