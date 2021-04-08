@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm Alfarabi </h2> 
+<h2 align="center">🤖 Hello! I'm Alfarabi </h2> 
 <p align="center">
   <a href="https://www.instagram.com/despicable_0/">Instagram</a> •
   <a href="https://t.me/Despicable_0">Telegram</a> •
@@ -9,43 +9,36 @@
   <img src="Bebop.gif" width="360" title="Cowboy">
 </p>
 
-## :shipit: About me
-* :mortar_board: I'm a second year college student, specializing in web and multimedia development
-* :octocat: I write code because that's the way for me to feel calmness and it's brings stability into my every day life
-* :walking: In my free time I watch anime, listen to music, read books and do sport, by the way, check out my [Anime list](https://yummyanime.club/users/id585219) and [Spotify playlists](https://open.spotify.com/user/cukziv71yqg6oqvtqak23s3mp?si=DTXuytkDSvqLD8Jq12lcvg)
+## 🐱‍💻 About me
+- 🐱‍🚀 I'm a second year college student, specializing in web and multimedia development
+- 🐱‍👤 I write code because that's the way for me to feel calmness and it's brings stability into my every day life
+- 🐱‍🐉 In my free time I watch anime, listen to music, read books and do sport, by the way, check out my [Anime list](https://yummyanime.club/users/id585219) and [Spotify playlists](https://open.spotify.com/user/cukziv71yqg6oqvtqak23s3mp?si=DTXuytkDSvqLD8Jq12lcvg)
 
-## :mortar_board: I'm currently learning
-* NodeJS
-* XML
 
-## :heavy_check_mark: I already know
-* HTML: BEM, Bootstrap
-* CSS: SASS
-* JavaScript
-* React
-* Python
-* PHP: Basics
-* SQL: MySQL
-* NoSQL: MongoDB(mongoose)
+```js
+const Alfarabi = {
+    code: {
+        Javascript: {
+            frontEnd: ["Native", "React", "Vue"],
+            backEnd: ["Node", "Express"],
+            tests: ["Chai", "Mocha"]
+        },
+        Python: ["Flask"],
+        markupLanguages: ["md", "html", "xml"],
+        frontEnd: ["Bootstrap", "Scss/Sass", "BEM"],
+        Databases: ["MongoDB", "MySql", "SqlLite"],
+        DevOps: ["WSL", "GIT"],
+        Ide: ["VSCode", "Notepad😎"],
+    },
+    Contacts: {
+        gmail: "DespicableGrand@gmail.com",
+        telegram: "@Despicable_0",
+        instagram: "@Despicable_0"
+    }
+}
+```
 
-## :green_book: Want to know
-* Firebase: Firestore, Hosting
-* WebSockets: SocketIO
-* SQL: SQLite
-* GraphQL
-* Deno
-* Flutter
-* Swift
-* Kotlin
+🤔last update - 08.04.2021
 
-<!-- #### And some Additional tools
-- Visual Studio Code
-- GitHub
-- Photoshop
-- Figma
-- Notion
-- Linux: Ubuntu
-- Trello
-- MySQL Workbench -->
 ------
-## :arrow_down: If you interested in, you can see my projects down below :arrow_down:
+##  If you interested in, you can see my projects down below 👀
