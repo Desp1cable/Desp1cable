@@ -19,7 +19,7 @@
 const Alfarabi = {
     code: {
         Javascript: {
-            frontEnd: ["Native", "React", "Vue"],
+            frontEnd: ["Native", "React", "Vue", "Next"],
             backEnd: ["Node", "Express"],
             tests: ["Chai", "Mocha"]
         },
@@ -38,7 +38,7 @@ const Alfarabi = {
 }
 ```
 
-🤔last update - 08.04.2021
+🤔last update - 19.04.2021
 
 ------
 ##  If you interested in, you can see my projects down below 👀
