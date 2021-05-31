@@ -18,7 +18,7 @@ const Alfarabi = {
   code: {
     frontEnd: {
       html: ["Semantic code", "SEO optimization", "BEM"],
-      css: ["adaptive", "cross-browser", "Sass"],
+      css: ["Adaptive", "cross-browser", "Sass"],
       javascript: ["ES6", "TypeScript", "React", "Next", "Vue"],
       tools: ["JSLint", "Chrome Dev Tools", "npm", "WebPack"]
     },
