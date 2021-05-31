@@ -9,36 +9,40 @@
   <img src="Bebop.gif" width="360" title="Cowboy">
 </p>
 
-## 🐱‍💻 About me
-- 🐱‍🚀 I'm a second year college student, specializing in web and multimedia development
-- 🐱‍👤 I write code because that's the way for me to feel calmness and it's brings stability into my every day life
-- 🐱‍🐉 In my free time I watch anime, listen to music, read books and do sport, by the way, check out my [Anime list](https://yummyanime.club/users/id585219) and [Spotify playlists](https://open.spotify.com/user/cukziv71yqg6oqvtqak23s3mp?si=DTXuytkDSvqLD8Jq12lcvg)
-
+## About me
+I'm a second year college student, specializing in web and multimedia development
+*2+ years of experience*
 
 ```js
 const Alfarabi = {
-    code: {
-        Javascript: {
-            frontEnd: ["Native", "React", "Vue", "Next"],
-            backEnd: ["Node", "Express"],
-            tests: ["Chai", "Mocha"]
-        },
-        Python: ["Flask"],
-        markupLanguages: ["md", "html", "xml"],
-        frontEnd: ["Bootstrap", "Scss/Sass", "BEM"],
-        Databases: ["MongoDB", "MySql", "SqlLite"],
-        DevOps: ["WSL", "GIT"],
-        Ide: ["VSCode", "Notepad😎"],
+  code: {
+    frontEnd: {
+      html: ["Semantic code", "SEO optimization", "BEM"],
+      css: ["adaptive", "cross-browser", "Sass"],
+      javascript: ["ES6", "TypeScript", "React", "Next", "Vue"],
+      tools: ["JSLint", "Chrome Dev Tools", "npm", "WebPack"]
     },
-    Contacts: {
-        gmail: "DespicableGrand@gmail.com",
-        telegram: "@Despicable_0",
-        instagram: "@Despicable_0"
-    }
+    backEnd: ["NodeJS", "Express", "Socket"],
+    dataBase: ["MongoDB", "MySQL", "SQLite"],
+    devOps: ["WSL", "GIT"]
+  },
+  design: ["UI/UX", "Figma", "Photoshop"],
+  languages: {
+    Russian: "Native",
+    English: "Fluent"
+  }
+  contacts: {
+    gmail: "DespicableGrand@gmail.com",
+    telegram: "@Despicable_0",
+    instagram: "@Despicable_0"
+   },
+   learning: ["Golang"]
 }
 ```
 
-🤔last update - 19.04.2021
+Also, check out my [Anime list](https://yummyanime.club/users/id585219) and [Spotify playlists](https://open.spotify.com/user/cukziv71yqg6oqvtqak23s3mp?si=DTXuytkDSvqLD8Jq12lcvg)
+
+🤔last update - 31.05.2021
 
 ------
 ##  If you interested in, you can see my projects down below 👀
