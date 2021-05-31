@@ -30,13 +30,13 @@ const Alfarabi = {
   languages: {
     Russian: "Native",
     English: "Fluent"
-  }
+  },
   contacts: {
     gmail: "DespicableGrand@gmail.com",
     telegram: "@Despicable_0",
     instagram: "@Despicable_0"
    },
-   learning: ["Golang"]
+   learning: "golang"
 }
 ```
 
