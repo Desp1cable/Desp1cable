@@ -10,8 +10,8 @@
 </p>
 
 ## About me
-I'm a second year college student, specializing in web and multimedia development
-*2+ years of experience*
+I'm a fouth year college student, specializing in web and multimedia development
+*3+ years of experience*
 
 ```js
 const Alfarabi = {
@@ -40,9 +40,7 @@ const Alfarabi = {
 }
 ```
 
-Also, check out my [Anime list](https://yummyanime.club/users/id585219) and [Spotify playlists](https://open.spotify.com/user/cukziv71yqg6oqvtqak23s3mp?si=DTXuytkDSvqLD8Jq12lcvg)
-
-🤔last update - 31.05.2021
+🤔last stack update - 31.05.2021
 
 ------
 ##  If you interested in, you can see my projects down below 👀
